@@ -1,2 +1,2 @@
 # testing
-testing with quicksort
+going through some tests with quicksort from rmishra
