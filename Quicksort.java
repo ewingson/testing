@@ -9,7 +9,7 @@ class Quicksort
 	of pivot */
 	int partition(int arr[], int low, int high)
 	{
-		//To-Do
+		//toodoo
 		//now let' s try to do this with random element as pivot
 		int pivot = arr[high]; 
 		int i = (low-1); // index of smaller element
@@ -78,4 +78,4 @@ class Quicksort
 		printArray(arr);
 	}
 }
-//rmishra
+//rmishra, public domain
